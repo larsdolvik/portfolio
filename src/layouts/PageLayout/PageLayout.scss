@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:700');
+
 .page-layout__viewport {
   padding-top: 4rem;
 }
@@ -5,4 +7,60 @@
 .page-layout__nav-item--active {
   font-weight: bold;
   text-decoration: underline;
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 30px;
+  background-color: rgba(30, 73, 148, 0.53);
+  text-align: center;
+  color: rgb(215, 221, 230);
+}
+
+.button {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(158, 165, 204, 0.83);
+  background-color: rgba(72, 21, 103, 0.25);
+  color: rgb(215, 221, 230);
+  font-family: 'Dancing Script', cursive;
+}
+
+.button:hover{
+    box-shadow:
+    inset 20px 0 80px rgba(31, 93, 199, 0.69),
+    /* inner left magenta short */
+    inset -20px 0 80px rgba(72, 171, 208, 0.79),
+    /* inner right cyan short */
+    inset 20px 0 300px rgba(44, 137, 236, 0.50),
+    /* inner left magenta broad */
+    inset -20px 0 300px #0ff,
+    /* inner right cyan broad */
+    -10px 0 80px rgba(#0b8bad, 0.50),
+    /* outer left magenta */
+    10px 0 80px #0ff;
+    /* outer right cyan */
+}
+
+.button:focus{
+  outline: 0;
+  box-shadow:
+  inset 20px 0 80px rgba(31, 93, 199, 0.69),
+  /* inner left magenta short */
+  inset -20px 0 80px rgba(72, 171, 208, 0.79),
+  /* inner right cyan short */
+  inset 20px 0 300px rgba(44, 137, 236, 0.50),
+  /* inner left magenta broad */
+  inset -20px 0 300px #0ff,
+  /* inner right cyan broad */
+  -10px 0 80px rgba(#0b8bad, 0.50),
+  /* outer left magenta */
+  10px 0 80px #0ff;
+  /* outer right cyan */
+
 }

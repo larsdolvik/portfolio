@@ -1,21 +1,49 @@
 @import 'base';
 @import '~bootstrap/scss/bootstrap.scss';
-
 // Some best-practice CSS that's useful for most apps
 // Just remove them if they're not what you want
+
 html {
   box-sizing: border-box;
 }
 
-html,
-body {
+body,
+html {
   margin: 0;
   padding: 0;
   height: 100%;
+  background: url('http://www.wallpapermade.com/images/wallpapers/originals/london-eye-millennium-wheel-at-night-wallpaper-5112.jpg') no-repeat;
+  background-size: cover;
+  color: rgb(173, 166, 180);
 }
 
 *,
-*:before,
-*:after {
+*:after,
+*:before {
   box-sizing: inherit;
+}
+
+#root {
+  background: none;
+}
+
+.pageContainer {
+  height: 500px;
+  padding: 50px 20px 75px;
+  border-radius: 2%;
+  color: rgb(215, 221, 230);
+}
+
+h1 {
+  margin: 25px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 64px;
+  color: rgb(215, 221, 230);
+  padding-bottom: 30px;
+}
+
+h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 64px;
+  color: rgb(215, 221, 230);
 }
