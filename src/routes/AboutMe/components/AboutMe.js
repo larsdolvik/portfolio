@@ -13,7 +13,7 @@ export const AboutMe = () => (
 
         placeholder text is gonna be HUGE. An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud. We are going to make placeholder text great again. Greater than ever before.
 
-        The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
+        concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
 
         I’m the best thing that ever happened to placeholder text. My placeholder text, I think, is going to end up being very good with women. The best taco bowls are made in Trump Tower Grill. I love Hispanics!
       </p>
