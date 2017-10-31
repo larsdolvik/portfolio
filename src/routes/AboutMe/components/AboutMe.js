@@ -11,7 +11,7 @@ export const AboutMe = () => (
 
         Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. My text is long and beautiful, as, it has been well documented, are various other parts of my website. An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
 
-        This placeholder text is gonna be HUGE. An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud. We are going to make placeholder text great again. Greater than ever before.
+        placeholder text is gonna be HUGE. An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud. We are going to make placeholder text great again. Greater than ever before.
 
         The concept of Lorem Ipsum was created by and for the Chinese in order to make U.S. design jobs non-competitive. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
 
